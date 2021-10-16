@@ -2443,3 +2443,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.16-15.01.14:409][302]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
 [2021.10.16-15.01.14:409][302]LogExit: Editor shut down
 [2021.10.16-15.01.14:411][302]LogExit: Transaction tracking system shut down
+[2021.10.16-15.01.45:230][302]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Unreal/Casual_Project_2/Casual_Project_2/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2021.10.16-15.01.45:230][302]LogFileManager: Error: Error deleting file '../../../../../Unreal/Casual_Project_2/Casual_Project_2/Intermediate/CachedAssetRegistry.bin'.
+[2021.10.16-15.01.45:230][302]LogExit: Object subsystem successfully closed.
+[2021.10.16-15.01.49:409][302]LogShaderCompilers: Display: Shaders left to compile 0
