@@ -1,0 +1,1676 @@
+﻿Log file open, 10/20/21 12:25:48
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Casual_Project_2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291635
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 4800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Engine.ini]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Engine.ini]
+[2021.10.20-16.25.49:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Engine.ini]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Engine.ini]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.20-16.25.49:369][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.20-16.25.49:370][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.20-16.25.49:370][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.20-16.25.49:370][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.20-16.25.49:370][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.20-16.25.49:370][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.20-16.25.49:370][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.20-16.25.49:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Engine.ini]
+[2021.10.20-16.25.49:370][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Engine.ini]
+[2021.10.20-16.25.49:377][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:377][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.20-16.25.49:377][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.20-16.25.49:377][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:377][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.20-16.25.49:377][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:377][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.20-16.25.49:377][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.20-16.25.49:378][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:378][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.20-16.25.49:379][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.20-16.25.49:379][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.20-16.25.49:379][  0]LogHAL: Display: Platform has ~ 16 GB [16556646400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.20-16.25.49:379][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.20-16.25.49:379][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.20-16.25.49:379][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.20-16.25.49:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.20-16.25.49:381][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.20-16.25.49:382][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.20-16.25.49:382][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.20-16.25.49:382][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.20-16.25.49:382][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Engine.ini]
+[2021.10.20-16.25.49:382][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Config/Windows/Editor.ini]
+[2021.10.20-16.25.49:382][  0]LogInit: Computer: MALTHAEL
+[2021.10.20-16.25.49:382][  0]LogInit: User: jdown
+[2021.10.20-16.25.49:382][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.10.20-16.25.49:382][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.20-16.25.49:382][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2021.10.20-16.25.49:382][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.20-16.25.49:382][  0]LogMemory: Process Physical Memory: 140.62 MB used, 140.63 MB peak
+[2021.10.20-16.25.49:382][  0]LogMemory: Process Virtual Memory: 129.39 MB used, 129.39 MB peak
+[2021.10.20-16.25.49:382][  0]LogMemory: Physical Memory: 6651.75 MB used,  9137.90 MB free, 15789.65 MB total
+[2021.10.20-16.25.49:382][  0]LogMemory: Virtual Memory: 134209800.00 MB used,  7931.80 MB free, 134217728.00 MB total
+[2021.10.20-16.25.49:390][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.20-16.25.49:446][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.20-16.25.49:447][  0]LogInit: Using OS detected language (en-US).
+[2021.10.20-16.25.49:447][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.20-16.25.49:456][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.20-16.25.49:740][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.20-16.25.49:750][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.20-16.25.49:767][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.20-16.25.49:768][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.20-16.25.49:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.20-16.25.49:976][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.20-16.25.49:976][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.20-16.25.49:976][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.20-16.25.50:122][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.10.20-16.25.50:122][  0]LogD3D11RHI:       5980/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.10.20-16.25.50:156][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2021.10.20-16.25.50:156][  0]LogD3D11RHI:       496/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2021.10.20-16.25.50:159][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.20-16.25.50:159][  0]LogD3D11RHI:       0/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.20-16.25.50:159][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.20-16.25.50:166][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.20-16.25.50:166][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.20-16.25.50:167][  0]LogWindows: EnumDisplayDevices:
+[2021.10.20-16.25.50:167][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2021.10.20-16.25.50:167][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.10.20-16.25.50:168][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.10.20-16.25.50:169][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.10.20-16.25.50:169][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.10.20-16.25.50:169][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.10.20-16.25.50:169][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.10.20-16.25.50:170][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.10.20-16.25.50:170][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.10.20-16.25.50:170][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.10.20-16.25.50:170][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2021.10.20-16.25.50:170][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2021.10.20-16.25.50:170][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.10.20-16.25.50:296][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.20-16.25.50:297][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.20-16.25.50:297][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.20-16.25.50:346][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.10.20-16.25.50:348][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.20-16.25.50:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.20-16.25.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.20-16.25.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.20-16.25.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.20-16.25.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.20-16.25.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.20-16.25.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.20-16.25.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.20-16.25.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.20-16.25.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.20-16.25.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.20-16.25.50:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.20-16.25.50:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.20-16.25.50:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.20-16.25.50:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.20-16.25.50:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.20-16.25.50:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.20-16.25.50:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.20-16.25.50:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.20-16.25.50:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.20-16.25.50:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.20-16.25.50:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.20-16.25.50:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.20-16.25.50:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.20-16.25.50:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.20-16.25.50:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.20-16.25.51:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.20-16.25.51:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.20-16.25.51:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.20-16.25.51:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.20-16.25.51:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.20-16.25.51:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.20-16.25.51:074][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.20-16.25.51:084][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.20-16.25.51:170][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.20-16.25.51:170][  0]LogShaderCompilers: Guid format shader working directory is -91 characters bigger than the processId version (../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Intermediate/Shaders/WorkingDirectory/16736/).
+[2021.10.20-16.25.51:170][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jdown/AppData/Local/Temp/UnrealShaderWorkingDir/2573260246196AFED9EC818757BEC295/'.
+[2021.10.20-16.25.51:170][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.20-16.25.51:170][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.20-16.25.52:169][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.20-16.25.52:224][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/jdown/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.20-16.25.52:224][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jdown/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.10.20-16.25.52:224][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.20-16.25.52:224][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.20-16.25.52:224][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.20-16.25.52:224][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.20-16.25.52:243][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.20-16.25.52:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.20-16.25.52:243][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.20-16.25.52:256][  0]LogDerivedDataCache: Speed tests for C:/Users/jdown/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.10.20-16.25.52:256][  0]LogDerivedDataCache: Display: Performance to C:/Users/jdown/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=191.47MBs, RandomWriteSpeed=119.98MBs. Assigned SpeedClass 'Local'
+[2021.10.20-16.25.52:257][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jdown/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.20-16.25.52:257][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.20-16.25.52:257][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.20-16.25.52:327][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.20-16.25.52:328][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.20-16.25.52:358][  0]LogAssetRegistry: FAssetRegistry took 0.0047 seconds to start up
+[2021.10.20-16.25.52:685][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.20-16.25.52:685][  0]LogInit: Active device profile: [0000015ACC7DE000][0000015ACC344200 49] Windows
+[2021.10.20-16.25.52:685][  0]LogInit: Profiles: [0000015ACC7DE000][0000015ACC344200 49] Windows, [0000015ACC777A00][0000015ACC34C380 49] WindowsNoEditor, [0000015ACC7DC500][0000015ACC350500 49] WindowsServer, [0000015ACC774B00][0000015ACC354680 49] WindowsClient, [0000015ACC7DF400][0000015ACC358800 49] IOS, [0000015ACC776E00][0000015ACC35C980 49] iPadAir, [0000015ACC7DD200][0000015AAF1BEB00 49] iPadAir2, [0000015ACD723700][0000015AAF1C6DC0 49] IPadPro, [0000015ACD723800][0000015AAF1C2E00 49] iPadAir3, [0000015ACC7DE900][0000015AAF1CAF80 49] iPadAir4, [0000015ACD722900][0000015AAF1CF100 49] iPadMini2, [0000015ACC7DCA00][0000015AAF1D3280 49] iPadMini3, [0000015ACD722E00][0000015AAF1D7400 49] iPadMini4, [0000015ACC7DF000][0000015AAF1DB580 49] iPadMini5, [0000015ACC77B000][0000015AAF1DF7C0 49] iPhone6, [0000015ACC77B100][0000015ACC349800 49] iPodTouch6, [0000015ACD723400][0000015AAF1E7A40 49] iPhone7, [0000015ACD723300][0000015AAF1E3A80 49] iPodTouch7, [0000015ACC77A600][0000015AAF1EFC00 49] iPhone5S, [0000015ACD721700][0000015AAF1F20C0 49] iPhone6Plus, [0000015ACC778E00][0000015AAF1F6240 49] iPhone6S, [0000015ACD720E00][0000015AAF1FA3C0 49] iPhone6SPlus, [0000015ACC77AD00][0000015AAF1FE540 49] iPhone7Plus, [0000015ACD723600][0000015AAF2026C0 49] iPhoneSE, [0000015ACC77A700][0000015AAF206840 49] iPhone8, [0000015ACD721400][0000015AAF20A9C0 49] iPhone8Plus, [0000015ACC77A400][0000015ACE370B40 49] iPhoneX, [0000015ACD721800][0000015ACE374CC0 49] iPhoneXS, [0000015ACC778700][0000015ACE378E40 49] iPhoneXSMax, [0000015ACD720800][0000015ACE37CFC0 49] iPhoneXR, [0000015ACC77B400][0000015ACE381140 49] iPhone11, [0000015ACD723100][0000015ACE3852C0 49] iPhone11Pro, [0000015ACC77A300][0000015ACE389440 49] iPhone11ProMax, [0000015ACD721900][0000015ACE38D5C0 49] iPhoneSE2, [0000015ACC779900][0000015AAF1EB700 49] iPhone12Mini, [0000015ACD720D00][0000015ACE391840 49] iPhone12, [0000015ACC778400][0000015ACE395980 49] iPhone12Pro, [0000015ACD720700][0000015ACE399AC0 49] iPhone12ProMax, [0000015ACC77A900][0000015ACE3A1C40 49] iPadPro105, [0000015ACD723900][0000015ACE3A4100 49] iPadPro129, [0000015ACC779700][0000015ACE3A8280 49] iPadPro97, [0000015ACD723B00][0000015ACE3AC400 49] iPadPro2_129, [0000015ACC779000][0000015ACE3B0580 49] iPad5, [0000015ACD723E00][0000015ACE3B4700 49] iPad6, [0000015ACC775100][0000015ACE3B8880 49] iPad7, [0000015ACC77AF00][0000015ACE3BCA00 49] iPad8, [0000015ACC775E00][0000015ACE3C0B80 49] iPadPro11, [0000015ACC77B900][0000015ACE3C4D00 49] iPadPro2_11, [0000015ACC775400][0000015ACE3C8E80 49] iPadPro3_129, [0000015ACC77BF00][0000015ACE3CD000 49] iPadPro4_129, [0000015ACC777900][0000015ACE3D1180 49] AppleTV, [0000015ACC779E00][0000015ACE3D5300 49] AppleTV4K, [0000015ACC774400][0000015ACE3D9480 49] TVOS, [0000015ACC778600][0000015ACE3DD600 49] Mac, [0000015ACC774700][0000015ACE3E1780 49] MacClient, [0000015ACC77A000][0000015ACE39D8C0 49] MacNoEditor, [0000015ACC774800][0000015ACE3E5A00 49] MacServer, [0000015ACD720F00][0000015ACE3E9B40 49] Linux, [0000015ACC777700][0000015ACE3F1CC0 49] LinuxAArch64, [0000015ACD723D00][0000015ACE3F4180 49] LinuxNoEditor, [0000015ACC777C00][0000015ACE3F8300 49] LinuxAArch64NoEditor, [0000015ACD721100][0000015ACE3FC480 49] LinuxClient, [0000015ACC777E00][0000015ACE400600 49] LinuxAArch64Client, [0000015ACD722200][0000015ACE404780 49] LinuxServer, [0000015ACC776100][0000015ACE408900 49] LinuxAArch64Server, [0000015ACD720400][0000015ACE40CA80 49] Android, [0000015ACC775500][0000015ACE410C00 49] Android_Low, [0000015ACD721000][0000015ACE414D80 49] Android_Mid, [0000015ACC775200][0000015ACE418F00 49] Android_High, [0000015ACD721B00][0000015ACE41D080 49] Android_Default, [0000015ACC776A00][0000015ACE421200 49] Android_Adreno4xx, [0000015ACD722600][0000015ACE425380 49] Android_Adreno5xx_Low, [0000015ACC774300][0000015ACE429500 49] Android_Adreno5xx, [0000015ACD721F00][0000015ACE42D680 49] Android_Adreno6xx, [0000015ACC775900][0000015ACE431800 49] Android_Adreno6xx_Vulkan, [0000015ACD722300][0000015ACE3ED940 49] Android_Mali_T6xx, [0000015ACC774F00][0000015ACE435A80 49] Android_Mali_T7xx, [0000015ACD722100][0000015ACE439BC0 49] Android_Mali_T8xx, [0000015ACC775C00][0000015ACE43DD00 49] Android_Mali_G71, [0000015ACD720A00][0000015ACE4441C0 49] Android_Mali_G72, [0000015ACC777000][0000015ACE448340 49] Android_Mali_G72_Vulkan, [0000015ACD722C00][0000015ACE44C4C0 49] Android_Mali_G76, [0000015ACC777800][0000015ACE450640 49] Android_Mali_G76_Vulkan, [0000015ACD720200][0000015ACE4547C0 49] Android_Mali_G77, [0000015ACC775700][0000015ACE458940 49] Android_Mali_G77_Vulkan, [0000015ACD722A00][0000015ACE45CAC0 49] Android_Vulkan_SM5, [0000015ACC774A00][0000015ACE460C40 49] Android_PowerVR_G6xxx, [0000015ACD722D00][0000015ACE464DC0 49] Android_PowerVR_GT7xxx, [0000015ACC774200][0000015ACE468F40 49] Android_PowerVR_GE8xxx, [0000015ACD721300][0000015ACE46D0C0 49] Android_PowerVR_GM9xxx, [0000015ACC776D00][0000015ACE471240 49] Android_PowerVR_GM9xxx_Vulkan, [0000015ACD721600][0000015ACE4753C0 49] Android_TegraK1, [0000015ACC774E00][0000015ACE479540 49] Android_Unknown_Vulkan, [0000015ACD723200][0000015ACE47D6C0 49] Lumin, [0000015ACC774100][0000015ACE481840 49] Lumin_Desktop, [0000015ACD721A00][0000015ACE441980 49] HoloLens, 
+[2021.10.20-16.25.52:743][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.20-16.25.52:743][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.20-16.25.52:743][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.20-16.25.52:743][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.20-16.25.52:743][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.20-16.25.52:851][  0]LogNetVersion: Casual_Project_2 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3297965214)
+[2021.10.20-16.25.53:432][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.20-16.25.53:498][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.064640 seconds
+[2021.10.20-16.25.53:505][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.10.20-16.25.53:505][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.10.20-16.25.53:505][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.20-16.25.53:997][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.20-16.25.54:008][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.20-16.25.54:125][  0]SourceControl: Source control is disabled
+[2021.10.20-16.25.54:125][  0]SourceControl: Source control is disabled
+[2021.10.20-16.25.54:128][  0]SourceControl: Source control is disabled
+[2021.10.20-16.25.54:549][  0]LogUProjectInfo: Found projects:
+[2021.10.20-16.25.54:892][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.20-16.25.54:942][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.20-16.25.54:942][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.20-16.25.54:996][  0]LogCollectionManager: Loaded 0 collections in 0.002214 seconds
+[2021.10.20-16.25.55:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Collections/' took 0.00s
+[2021.10.20-16.25.55:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/Developers/jdown/Collections/' took 0.00s
+[2021.10.20-16.25.55:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/Collections/' took 0.00s
+[2021.10.20-16.25.55:029][  0]LogOcInput: OculusInput pre-init called
+[2021.10.20-16.25.55:044][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.10.20-16.25.55:044][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.10.20-16.25.55:122][  0]LogEngine: Initializing Engine...
+[2021.10.20-16.25.55:124][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.20-16.25.55:124][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.20-16.25.55:125][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.20-16.25.55:261][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.20-16.25.55:271][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.20-16.25.55:282][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.20-16.25.55:287][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.20-16.25.55:287][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.20-16.25.55:287][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.20-16.25.55:287][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.20-16.25.55:287][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.20-16.25.55:287][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.20-16.25.55:287][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.20-16.25.55:287][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.20-16.25.55:287][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.20-16.25.55:287][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.20-16.25.55:287][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.20-16.25.55:287][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.20-16.25.55:306][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.25.55:306][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.25.55:346][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.20-16.25.55:349][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.20-16.25.55:351][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.20-16.25.55:351][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.20-16.25.55:352][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.20-16.25.55:352][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.20-16.25.55:352][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.20-16.25.55:354][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.20-16.25.55:354][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.20-16.25.55:354][  0]LogInit: FAudioDevice initialized.
+[2021.10.20-16.25.55:354][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.20-16.25.55:354][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.20-16.25.55:701][  0]LogDerivedDataCache: Saved boot cache 0.35s 77MB C:/Users/jdown/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.20-16.25.55:703][  0]LogInit: Texture streaming: Enabled
+[2021.10.20-16.25.55:723][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.10.20-16.25.55:729][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.20-16.25.55:729][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.20-16.25.55:732][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.20-16.25.55:768][  0]LogInit: Transaction tracking system initialized
+[2021.10.20-16.25.55:798][  0]BlueprintLog: New page: Editor Load
+[2021.10.20-16.25.55:898][  0]LocalizationService: Localization service is disabled
+[2021.10.20-16.25.55:933][  0]TimingProfiler: Initialize
+[2021.10.20-16.25.55:933][  0]TimingProfiler: OnSessionChanged
+[2021.10.20-16.25.55:933][  0]LoadingProfiler: Initialize
+[2021.10.20-16.25.55:934][  0]LoadingProfiler: OnSessionChanged
+[2021.10.20-16.25.55:934][  0]NetworkingProfiler: Initialize
+[2021.10.20-16.25.55:934][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.20-16.25.55:934][  0]MemoryProfiler: Initialize
+[2021.10.20-16.25.55:934][  0]MemoryProfiler: OnSessionChanged
+[2021.10.20-16.25.56:128][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.20-16.25.56:128][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.20-16.25.56:329][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/' took 0.01s
+[2021.10.20-16.25.56:530][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.20-16.25.56:534][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.514
+[2021.10.20-16.25.56:535][  0]LightingResults: New page: Lighting Build
+[2021.10.20-16.25.56:535][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-16.25.56:535][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.25.56:536][  0]MapCheck: New page: Map Check
+[2021.10.20-16.25.56:536][  0]LightingResults: New page: Lighting Build
+[2021.10.20-16.25.56:543][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.10.20-16.25.56:567][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2021.10.20-16.25.56:568][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.10.20-16.25.56:569][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.20-16.25.56:575][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.10.20-16.25.56:576][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.20-16.25.56:576][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.292ms to complete.
+[2021.10.20-16.25.56:576][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 0.042
+[2021.10.20-16.25.56:578][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.559
+[2021.10.20-16.25.56:712][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-16.25.56:720][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-16.25.56:728][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-16.25.56:738][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-16.25.56:757][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0135 seconds. Added 3601 classes and 859 folders.
+[2021.10.20-16.25.56:765][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.20-16.25.56:766][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.20-16.25.56:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.20-16.25.56:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.10.20-16.25.56:767][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.20-16.25.56:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.20-16.25.56:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.10.20-16.25.56:768][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.20-16.25.56:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.20-16.25.56:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.10.20-16.25.56:769][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.20-16.25.56:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.20-16.25.56:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.10.20-16.25.56:769][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.20-16.25.56:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.20-16.25.56:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.10.20-16.25.56:770][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.20-16.25.56:770][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:770][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.20-16.25.56:770][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.20-16.25.56:772][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.20-16.25.56:772][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:772][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.20-16.25.56:772][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.10.20-16.25.56:773][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.20-16.25.56:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.20-16.25.56:773][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.20-16.25.56:774][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.20-16.25.56:774][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:774][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.20-16.25.56:774][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.10.20-16.25.56:775][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.20-16.25.56:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.20-16.25.56:775][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.10.20-16.25.56:775][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.20-16.25.56:776][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:776][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.20-16.25.56:776][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.10.20-16.25.56:776][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.20-16.25.56:776][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:776][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.20-16.25.56:776][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.10.20-16.25.56:777][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.20-16.25.56:777][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:777][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.20-16.25.56:777][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.20-16.25.56:778][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.20-16.25.56:778][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:778][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.20-16.25.56:778][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.10.20-16.25.56:779][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.20-16.25.56:779][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:779][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.20-16.25.56:779][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.10.20-16.25.56:779][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.20-16.25.56:779][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:779][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.20-16.25.56:780][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.10.20-16.25.56:780][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.20-16.25.56:780][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:780][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.20-16.25.56:780][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.10.20-16.25.56:781][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.20-16.25.56:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.20-16.25.56:781][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.10.20-16.25.56:782][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.20-16.25.56:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.20-16.25.56:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.10.20-16.25.56:783][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.20-16.25.56:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.20-16.25.56:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.10.20-16.25.56:783][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.20-16.25.56:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.20-16.25.56:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.10.20-16.25.56:784][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.20-16.25.56:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.20-16.25.56:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.10.20-16.25.56:785][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.20-16.25.56:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.20-16.25.56:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.10.20-16.25.56:787][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.20-16.25.56:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.20-16.25.56:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.10.20-16.25.56:788][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.20-16.25.56:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.20-16.25.56:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.10.20-16.25.56:788][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.20-16.25.56:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.20-16.25.56:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.20-16.25.56:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.10.20-16.25.56:846][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.20-16.25.56:847][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.10.20-16.25.56:936][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.20-16.25.56:942][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.20-16.25.56:946][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.20-16.25.57:055][  0]LogRenderer: Reallocating scene render targets to support 908x384 Format 10 NumSamples 1 (Frame:1).
+[2021.10.20-16.25.57:771][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.20-16.25.57:912][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.20-16.25.57:912][  0]LogLoad: (Engine Initialization) Total time: 9.89 seconds
+[2021.10.20-16.25.57:912][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.20-16.25.57:912][  0]LogInit: First time updating LLM stats...
+[2021.10.20-16.25.57:976][  0]LogAssetRegistry: Asset discovery search completed in 5.6193 seconds
+[2021.10.20-16.25.57:978][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.10.20-16.25.58:028][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.20-16.25.58:064][  1]LogRenderer: Reallocating scene render targets to support 908x392 Format 10 NumSamples 1 (Frame:2).
+[2021.10.20-16.25.58:277][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/' took 0.33s
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/AlembicImporter/Source/AlembicLibrary/Public: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/AlembicImporter/Source/AlembicLibrary/Public' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h: 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h: 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h: 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h: 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h: 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h: 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories: 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Source/ChaosSolverEditor/Private/Chaos/ActorFactoryChaosSolver.h: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Source/ChaosSolverEditor/Private/Chaos/ActorFactoryChaosSolver.h' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCache/Source/GeometryCacheEd/Classes/ActorFactoryGeometryCache.h: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCache/Source/GeometryCacheEd/Classes/ActorFactoryGeometryCache.h' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.25.58:954][  3]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Source/GeometryCollectionEditor/Private/GeometryCollection/ActorFactoryGeometryCollection.h: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Source/GeometryCollectionEditor/Private/GeometryCollection/ActorFactoryGeometryCollection.h' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.26.01:740][121]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.20-16.26.02:645][168]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenu/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.10.20-16.26.02:930][168]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.10.20-16.26.03:996][168]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.20-16.26.04:039][169]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.20-16.26.27:564][474]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Sounds/UI: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Sounds/UI' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.26.27:564][474]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorSounds/Notifications/CompileFailed.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorSounds/Notifications/CompileFailed.uasset' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.26.38:944][ 60]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Sounds/UI: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Sounds/UI' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.26.38:944][ 60]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorSounds/Notifications/CompileFailed.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorSounds/Notifications/CompileFailed.uasset' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.26.54:987][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.10.20-16.26.55:001][349]LogSavePackage: Moving '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/MainMenuLevel19308D1A482CCA7A2A822ABA13A80F43.tmp' to '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/MainMenu/MainMenuLevel.umap'
+[2021.10.20-16.26.55:011][349]LogFileHelpers: Saving map 'MainMenuLevel' took 0.062
+[2021.10.20-16.26.55:028][349]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.10.20-16.26.55:028][349]LogContentValidation: Display: Validating World /Game/MainMenu/MainMenuLevel.MainMenuLevel
+[2021.10.20-16.26.55:945][404]LogSlate: Window 'MainMenuLevel' being destroyed
+[2021.10.20-16.26.55:956][404]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-16.26.55:956][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.27.03:377][823]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.20-16.27.03:392][823]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.20-16.27.04:797][908]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2021.10.20-16.27.04:798][908]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.20-16.27.09:777][ 64]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\jdown\Downloads\Academic\Current Classes\Casual Game Production\Project 2\Audio\Chiptronical.ogg)
+[2021.10.20-16.27.16:550][148]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Chiptronical...
+[2021.10.20-16.27.16:559][148]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Chiptronical.Chiptronical will be modified from 40 to 40.
+[2021.10.20-16.27.21:763][148]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 43394400 while cooking SoundWave /Game/Audio/Chiptronical.Chiptronical.
+[2021.10.20-16.27.39:095][ 36]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenu/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.10.20-16.27.42:446][161]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Sounds/UI: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Sounds/UI' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.27.46:742][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.10.20-16.27.46:752][390]LogSavePackage: Moving '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/MainMenuLevel67D485134F5E95C1A99F25A0125ED2ED.tmp' to '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/MainMenu/MainMenuLevel.umap'
+[2021.10.20-16.27.46:762][390]LogFileHelpers: Saving map 'MainMenuLevel' took 0.049
+[2021.10.20-16.27.46:774][390]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.10.20-16.27.46:774][390]LogContentValidation: Display: Validating World /Game/MainMenu/MainMenuLevel.MainMenuLevel
+[2021.10.20-16.27.47:926][459]LogSlate: Window 'MainMenuLevel' being destroyed
+[2021.10.20-16.27.47:938][459]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-16.27.47:938][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.27.49:044][520]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.20-16.27.49:054][520]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.20-16.27.49:054][520]LogPlayLevel: [PlayLevel] Compiling MainMenuLevel before play...
+[2021.10.20-16.27.49:087][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.10.20-16.27.49:088][520]LogPlayLevel: PlayLevel: Blueprint regeneration took 34 ms (1 blueprints)
+[2021.10.20-16.27.49:088][520]PIE: New page: PIE session: MainMenuLevel (Oct 20, 2021, 8:27:49 AM)
+[2021.10.20-16.27.49:090][520]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.20-16.27.49:092][520]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.20-16.27.49:092][520]LogPlayLevel: Creating play world package: /Game/MainMenu/UEDPIE_0_MainMenuLevel
+[2021.10.20-16.27.49:094][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001896s)
+[2021.10.20-16.27.49:095][520]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.10.20-16.27.49:096][520]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2021.10.20-16.27.49:096][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/MainMenuLevel.MainMenuLevel to /Game/MainMenu/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003413s)
+[2021.10.20-16.27.49:113][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.10.20-16.27.49:114][520]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.20-16.27.49:114][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.20-16.27.49:114][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.20-16.27.49:114][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.20-16.27.49:114][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.20-16.27.49:114][520]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.20-16.27.49:114][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.20-16.27.49:114][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.20-16.27.49:114][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.20-16.27.49:115][520]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.20-16.27.49:115][520]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.20-16.27.49:122][520]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.27.49:122][520]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.27.49:131][520]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.20-16.27.49:131][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.20-16.27.49:131][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.20-16.27.49:131][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.20-16.27.49:131][520]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.20-16.27.49:132][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.20-16.27.49:132][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.20-16.27.49:169][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.20-16.27.49:169][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.20-16.27.49:169][520]LogInit: FAudioDevice initialized.
+[2021.10.20-16.27.49:169][520]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenuLevel'.
+[2021.10.20-16.27.49:179][520]LogLoad: Game class is 'RollingGameMode_C'
+[2021.10.20-16.27.49:182][520]LogWorld: Bringing World /Game/MainMenu/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.10.20-12.27.49
+[2021.10.20-16.27.49:182][520]LogWorld: Bringing up level for play took: 0.000455
+[2021.10.20-16.27.49:182][520]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.10.20-16.27.49:196][520]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.10.20-16.27.49:198][520]PIE: Server logged in
+[2021.10.20-16.27.49:200][520]PIE: Play in editor total start time 0.148 seconds.
+[2021.10.20-16.27.54:391][806]LogNet: Browse: /Game/BuildLevel/BuildLevel
+[2021.10.20-16.27.54:391][806]LogLoad: LoadMap: /Game/BuildLevel/BuildLevel
+[2021.10.20-16.27.54:391][806]LogWorld: BeginTearingDown for /Game/MainMenu/UEDPIE_0_MainMenuLevel
+[2021.10.20-16.27.54:391][806]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-16.27.54:391][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.27.54:449][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.20-16.27.54:498][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.10.20-16.27.54:910][806]LogAudio: Display: Audio Device (ID: 2) registered with world 'BuildLevel'.
+[2021.10.20-16.27.54:911][806]LogAIModule: Creating AISystem for world BuildLevel
+[2021.10.20-16.27.54:911][806]LogLoad: Game class is 'RollingGameMode_C'
+[2021.10.20-16.27.54:946][806]LogWorld: Bringing World /Game/BuildLevel/UEDPIE_0_BuildLevel.BuildLevel up for play (max tick rate 60) at 2021.10.20-12.27.54
+[2021.10.20-16.27.54:946][806]LogWorld: Bringing up level for play took: 0.034683
+[2021.10.20-16.27.54:949][806]LogLoad: Took 0.558696 seconds to LoadMap(/Game/BuildLevel/BuildLevel)
+[2021.10.20-16.28.03:368][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-16.28.03:368][303]LogWorld: BeginTearingDown for /Game/BuildLevel/UEDPIE_0_BuildLevel
+[2021.10.20-16.28.03:369][303]LogWorld: UWorld::CleanupWorld for BuildLevel, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-16.28.03:370][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.28.03:383][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.20-16.28.03:388][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.28.03:402][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-16.28.03:405][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-16.28.03:406][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-16.28.03:486][303]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.10.20-16.28.03:502][304]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.10.20-16.28.08:723][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.10.20-16.28.11:196][616]LogSlate: Window 'Save Content' being destroyed
+[2021.10.20-16.28.11:800][616]LogSavePackage: Moving '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/Chiptronical76F4EBC448BE58FA21B65299612C2144.tmp' to '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/Audio/Chiptronical.uasset'
+[2021.10.20-16.28.15:138][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.10.20-16.28.15:148][616]LogSavePackage: Moving '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/MainMenuLevel3ED58FED432C52E134291BBD8907DAE3.tmp' to '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/MainMenu/MainMenuLevel.umap'
+[2021.10.20-16.28.15:156][616]LogFileHelpers: Saving map 'MainMenuLevel' took 0.036
+[2021.10.20-16.28.15:349][616]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BuildLevel/BuildLevel.BuildLevel
+[2021.10.20-16.28.15:349][616]LightingResults: New page: Lighting Build
+[2021.10.20-16.28.15:349][616]LoadErrors: New page: Loading map: BuildLevel.umap
+[2021.10.20-16.28.15:350][616]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-16.28.15:350][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.28.15:350][616]MapCheck: New page: Map Check
+[2021.10.20-16.28.15:350][616]LightingResults: New page: Lighting Build
+[2021.10.20-16.28.15:366][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.20-16.28.15:382][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.10.20-16.28.15:383][616]LogAudio: Display: Audio Device (ID: 1) registered with world 'BuildLevel'.
+[2021.10.20-16.28.15:448][616]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.20-16.28.15:448][616]LogAIModule: Creating AISystem for world BuildLevel
+[2021.10.20-16.28.15:471][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.10.20-16.28.15:479][616]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.20-16.28.15:479][616]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
+[2021.10.20-16.28.15:479][616]LogFileHelpers: Loading map 'BuildLevel' took 0.131
+[2021.10.20-16.28.15:499][616]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.20-16.28.15:499][616]LogContentValidation: Display: Validating SoundWave /Game/Audio/Chiptronical.Chiptronical
+[2021.10.20-16.28.15:499][616]LogContentValidation: Display: Validating World /Game/MainMenu/MainMenuLevel.MainMenuLevel
+[2021.10.20-16.28.17:376][712]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/BuildLevel/BuildLevel.BuildLevel:PersistentLevel.BuildLevel
+[2021.10.20-16.28.41:655][ 93]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Sounds/UI: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Sounds/UI' is outside repository at 'C:/Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2'
+[2021.10.20-16.28.44:457][250]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.10.20-16.28.44:717][250]LogSavePackage: Moving '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/BuildLevel0942608E4163AF038D3F168905DA1DFB.tmp' to '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/BuildLevel/BuildLevel.umap'
+[2021.10.20-16.28.44:727][250]LogFileHelpers: Saving map 'BuildLevel' took 0.296
+[2021.10.20-16.28.44:740][250]AssetCheck: New page: Asset Save: BuildLevel
+[2021.10.20-16.28.44:740][250]LogContentValidation: Display: Validating World /Game/BuildLevel/BuildLevel.BuildLevel
+[2021.10.20-16.28.45:446][292]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-16.28.45:446][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.28.46:424][348]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.20-16.28.46:435][348]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.20-16.28.46:435][348]LogPlayLevel: [PlayLevel] Compiling BuildLevel before play...
+[2021.10.20-16.28.46:487][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.10.20-16.28.46:488][348]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (1 blueprints)
+[2021.10.20-16.28.46:489][348]PIE: New page: PIE session: BuildLevel (Oct 20, 2021, 8:28:46 AM)
+[2021.10.20-16.28.46:489][348]LogPlayLevel: Creating play world package: /Game/BuildLevel/UEDPIE_0_BuildLevel
+[2021.10.20-16.28.46:591][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102618s)
+[2021.10.20-16.28.46:593][348]LogAIModule: Creating AISystem for world BuildLevel
+[2021.10.20-16.28.46:593][348]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2021.10.20-16.28.46:593][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildLevel/BuildLevel.BuildLevel to /Game/BuildLevel/UEDPIE_0_BuildLevel.BuildLevel (0.104306s)
+[2021.10.20-16.28.46:612][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.10.20-16.28.46:613][348]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.20-16.28.46:613][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.20-16.28.46:613][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.20-16.28.46:613][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.20-16.28.46:613][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.20-16.28.46:613][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.20-16.28.46:613][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.20-16.28.46:613][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.20-16.28.46:613][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.20-16.28.46:614][348]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.20-16.28.46:614][348]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.20-16.28.46:620][348]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.28.46:620][348]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.28.46:628][348]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.20-16.28.46:628][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.20-16.28.46:629][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.20-16.28.46:629][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.20-16.28.46:629][348]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.20-16.28.46:629][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.20-16.28.46:629][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.20-16.28.46:667][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.20-16.28.46:668][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.20-16.28.46:668][348]LogInit: FAudioDevice initialized.
+[2021.10.20-16.28.46:668][348]LogAudio: Display: Audio Device (ID: 3) registered with world 'BuildLevel'.
+[2021.10.20-16.28.46:682][348]LogLoad: Game class is 'RollingGameMode_C'
+[2021.10.20-16.28.46:694][348]LogWorld: Bringing World /Game/BuildLevel/UEDPIE_0_BuildLevel.BuildLevel up for play (max tick rate 60) at 2021.10.20-12.28.46
+[2021.10.20-16.28.46:694][348]LogWorld: Bringing up level for play took: 0.011213
+[2021.10.20-16.28.46:695][348]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.10.20-16.28.46:699][348]PIE: Server logged in
+[2021.10.20-16.28.46:700][348]PIE: Play in editor total start time 0.267 seconds.
+[2021.10.20-16.28.49:433][509]LogBlueprintUserMessages: [checkpoint_5] Checkpoint
+[2021.10.20-16.28.55:336][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-16.28.55:336][861]LogWorld: BeginTearingDown for /Game/BuildLevel/UEDPIE_0_BuildLevel
+[2021.10.20-16.28.55:337][861]LogWorld: UWorld::CleanupWorld for BuildLevel, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-16.28.55:338][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.28.55:350][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.20-16.28.55:355][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.28.55:375][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.20-16.28.55:376][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-16.28.55:377][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-16.28.55:414][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-16.28.55:424][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.10.20-16.28.55:453][862]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.10.20-16.28.56:397][915]Cmd: SELECT NONE
+[2021.10.20-16.28.58:628][ 41]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/BuildLevel/BuildLevel.BuildLevel:PersistentLevel.BuildLevel
+[2021.10.20-16.29.26:908][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.10.20-16.29.27:165][663]LogSavePackage: Moving '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/BuildLevelD7B0C8594EA1C42C89A35B92822A933D.tmp' to '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/BuildLevel/BuildLevel.umap'
+[2021.10.20-16.29.27:175][663]LogFileHelpers: Saving map 'BuildLevel' took 0.293
+[2021.10.20-16.29.27:188][663]AssetCheck: New page: Asset Save: BuildLevel
+[2021.10.20-16.29.27:188][663]LogContentValidation: Display: Validating World /Game/BuildLevel/BuildLevel.BuildLevel
+[2021.10.20-16.29.28:333][730]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-16.29.28:333][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.29.29:223][781]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.20-16.29.29:232][781]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.20-16.29.29:232][781]LogPlayLevel: [PlayLevel] Compiling BuildLevel before play...
+[2021.10.20-16.29.29:288][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.10.20-16.29.29:288][781]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2021.10.20-16.29.29:288][781]PIE: New page: PIE session: BuildLevel (Oct 20, 2021, 8:29:29 AM)
+[2021.10.20-16.29.29:289][781]LogPlayLevel: Creating play world package: /Game/BuildLevel/UEDPIE_0_BuildLevel
+[2021.10.20-16.29.29:391][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101988s)
+[2021.10.20-16.29.29:392][781]LogAIModule: Creating AISystem for world BuildLevel
+[2021.10.20-16.29.29:392][781]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2021.10.20-16.29.29:392][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildLevel/BuildLevel.BuildLevel to /Game/BuildLevel/UEDPIE_0_BuildLevel.BuildLevel (0.103642s)
+[2021.10.20-16.29.29:412][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.10.20-16.29.29:412][781]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.20-16.29.29:413][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.20-16.29.29:413][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.20-16.29.29:413][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.20-16.29.29:413][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.20-16.29.29:413][781]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.20-16.29.29:413][781]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.20-16.29.29:413][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.20-16.29.29:413][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.20-16.29.29:413][781]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.20-16.29.29:413][781]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.20-16.29.29:420][781]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.29.29:420][781]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.29.29:427][781]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.20-16.29.29:428][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.20-16.29.29:428][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.20-16.29.29:428][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.20-16.29.29:428][781]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.20-16.29.29:428][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.20-16.29.29:428][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.20-16.29.29:462][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.20-16.29.29:462][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.20-16.29.29:462][781]LogInit: FAudioDevice initialized.
+[2021.10.20-16.29.29:462][781]LogAudio: Display: Audio Device (ID: 4) registered with world 'BuildLevel'.
+[2021.10.20-16.29.29:477][781]LogLoad: Game class is 'RollingGameMode_C'
+[2021.10.20-16.29.29:485][781]LogWorld: Bringing World /Game/BuildLevel/UEDPIE_0_BuildLevel.BuildLevel up for play (max tick rate 60) at 2021.10.20-12.29.29
+[2021.10.20-16.29.29:486][781]LogWorld: Bringing up level for play took: 0.008165
+[2021.10.20-16.29.29:486][781]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.10.20-16.29.29:490][781]PIE: Server logged in
+[2021.10.20-16.29.29:491][781]PIE: Play in editor total start time 0.26 seconds.
+[2021.10.20-16.29.32:122][936]LogBlueprintUserMessages: [checkpoint_5] Checkpoint
+[2021.10.20-16.29.54:835][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-16.29.54:835][297]LogWorld: BeginTearingDown for /Game/BuildLevel/UEDPIE_0_BuildLevel
+[2021.10.20-16.29.54:836][297]LogWorld: UWorld::CleanupWorld for BuildLevel, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-16.29.54:837][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.29.54:853][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.20-16.29.54:859][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-16.29.54:879][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-16.29.54:879][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-16.29.54:881][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-16.29.54:920][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.10.20-16.29.54:950][298]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.10.20-16.30.07:533][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.10.20-16.30.07:684][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.20-16.30.07:936][ 29]LogSavePackage: Moving '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Saved/BuildLevel19A1E6044CDC6E44D55ECE82D44B0999.tmp' to '../../../../../../Users/jdown/Downloads/Academic/Current Classes/Casual Game Production/Project 2/Casual_Project_2/Casual_Project_2 4.26/Content/BuildLevel/BuildLevel.umap'
+[2021.10.20-16.30.07:946][ 29]LogFileHelpers: Saving map 'BuildLevel' took 0.280
+[2021.10.20-16.30.07:959][ 29]AssetCheck: New page: Asset Save: BuildLevel
+[2021.10.20-16.30.07:959][ 29]LogContentValidation: Display: Validating World /Game/BuildLevel/BuildLevel.BuildLevel
+[2021.10.20-16.30.35:685][508]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/PhysicsBallBP.PhysicsBallBP
+[2021.10.20-16.36.18:843][855]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.18:849][855]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.18:849][855]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.18:930][855]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.19:854][858]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.19:859][858]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.19:859][858]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.19:933][858]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.20:528][860]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.20:532][860]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.20:532][860]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.20:598][860]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.21:545][863]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.21:548][863]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.21:548][863]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.21:613][863]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.22:552][866]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.22:555][866]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.22:555][866]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.22:623][866]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.23:558][869]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.23:562][869]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.23:562][869]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.23:636][869]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.24:563][872]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.24:566][872]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.24:567][872]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.24:636][872]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.25:565][875]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.25:569][875]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.25:569][875]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.25:645][875]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.26:566][878]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.26:572][878]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.26:572][878]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.26:640][878]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.27:577][881]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.27:581][881]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.27:581][881]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.27:655][881]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.28:582][884]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.28:586][884]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.28:586][884]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.28:658][884]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.29:591][887]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.29:597][887]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.29:597][887]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.29:670][887]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.30:600][890]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.30:604][890]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.30:604][890]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.30:674][890]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.31:610][893]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.31:615][893]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.31:615][893]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.31:684][893]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.32:613][896]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.32:618][896]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.32:618][896]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.32:690][896]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.33:622][899]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.33:626][899]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.33:626][899]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.33:701][899]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.34:625][902]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.34:629][902]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.34:629][902]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.34:699][902]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.35:634][905]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.35:638][905]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.35:638][905]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.35:715][905]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.36:646][908]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.36:651][908]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.36:651][908]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.36:724][908]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.37:656][911]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.37:660][911]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.37:660][911]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.37:733][911]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.38:669][914]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.38:676][914]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.38:676][914]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.38:755][914]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.39:676][917]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.39:679][917]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.39:679][917]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.39:752][917]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.40:679][920]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.40:682][920]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.40:682][920]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.40:758][920]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.41:689][923]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.41:694][923]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.41:695][923]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.41:766][923]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.42:700][926]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.42:704][926]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.42:704][926]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.42:778][926]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.43:713][929]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.43:718][929]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.43:718][929]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.43:790][929]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.44:726][932]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.44:731][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.44:731][932]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.44:808][932]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.45:737][935]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.45:741][935]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.45:741][935]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.45:812][935]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.46:744][938]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.46:748][938]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.46:748][938]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.46:822][938]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.47:748][941]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.47:752][941]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.47:752][941]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.47:827][941]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.48:754][944]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.48:759][944]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.48:759][944]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.48:830][944]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.49:757][947]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.49:762][947]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.49:762][947]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.49:837][947]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.50:768][950]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.50:772][950]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.50:772][950]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.50:845][950]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.51:770][953]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.51:774][953]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.51:774][953]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.51:845][953]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.52:773][956]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.52:780][956]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.52:780][956]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.52:857][956]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.53:783][959]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.53:790][959]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.53:791][959]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.53:868][959]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.54:786][962]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.54:790][962]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.54:790][962]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.54:868][962]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.55:789][965]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.55:794][965]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.55:794][965]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.55:865][965]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.56:792][968]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.56:795][968]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.56:795][968]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.56:872][968]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.57:796][971]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.57:801][971]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.57:801][971]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.57:874][971]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.58:797][974]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.58:803][974]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.58:803][974]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.58:875][974]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.36.59:798][977]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.36.59:802][977]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.36.59:802][977]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.36.59:884][977]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.00:800][980]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.00:804][980]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.00:804][980]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.00:882][980]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.01:802][983]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.01:808][983]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.01:808][983]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.01:877][983]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.02:808][986]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.02:812][986]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.02:812][986]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.02:892][986]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.03:815][989]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.03:820][989]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.03:820][989]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.03:893][989]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.04:827][992]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.04:831][992]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.04:831][992]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.04:904][992]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.05:829][995]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.05:832][995]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.05:832][995]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.05:908][995]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.06:829][998]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.06:836][998]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.06:836][998]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.06:910][998]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.07:839][  1]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.07:846][  1]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.07:846][  1]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.07:924][  1]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.08:855][  4]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.08:859][  4]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.08:859][  4]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.08:939][  4]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.09:862][  7]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.09:867][  7]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.09:867][  7]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.09:941][  7]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.10:869][ 10]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.10:873][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.10:873][ 10]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.10:946][ 10]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.11:874][ 13]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.11:879][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.11:879][ 13]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.11:959][ 13]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.12:547][ 15]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.12:551][ 15]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.12:551][ 15]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.12:626][ 15]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.13:561][ 18]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.13:565][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.13:565][ 18]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.13:641][ 18]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.14:564][ 21]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.14:568][ 21]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.14:568][ 21]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.14:638][ 21]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.15:571][ 24]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.15:578][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.15:578][ 24]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.15:655][ 24]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.16:576][ 27]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.16:580][ 27]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.16:580][ 27]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.16:657][ 27]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.17:581][ 30]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.17:585][ 30]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.17:585][ 30]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.17:659][ 30]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.18:586][ 33]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.18:590][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.18:590][ 33]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.18:664][ 33]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.19:593][ 36]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.19:597][ 36]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.19:597][ 36]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.19:664][ 36]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.20:602][ 39]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.20:606][ 39]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.20:606][ 39]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.20:676][ 39]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.21:612][ 42]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.21:617][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.21:618][ 42]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.21:689][ 42]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.22:627][ 45]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.22:631][ 45]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.22:631][ 45]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.22:709][ 45]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.23:634][ 48]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.23:638][ 48]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.23:638][ 48]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.23:716][ 48]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.24:639][ 51]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.24:643][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.24:643][ 51]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.24:721][ 51]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.25:649][ 54]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.25:653][ 54]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.25:653][ 54]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.25:726][ 54]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.26:655][ 57]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.26:659][ 57]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.26:659][ 57]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.26:737][ 57]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.27:664][ 60]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.27:668][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.27:668][ 60]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.27:743][ 60]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.28:664][ 63]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.28:667][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.28:668][ 63]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.28:740][ 63]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.29:667][ 66]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.29:674][ 66]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.29:674][ 66]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.29:748][ 66]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.30:677][ 69]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.30:681][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.30:681][ 69]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.30:754][ 69]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.31:683][ 72]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.31:688][ 72]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.31:688][ 72]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.31:764][ 72]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.32:685][ 75]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.32:692][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.32:692][ 75]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.32:765][ 75]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.33:689][ 78]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.33:693][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.33:693][ 78]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.33:775][ 78]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.34:701][ 81]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.34:705][ 81]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.34:705][ 81]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.34:763][ 81]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.35:712][ 84]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.35:716][ 84]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.35:716][ 84]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.35:775][ 84]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.36:711][ 87]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.36:715][ 87]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.36:715][ 87]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.36:772][ 87]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.37:723][ 90]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.37:727][ 90]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.37:727][ 90]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.39:056][ 94]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.39:062][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.39:062][ 94]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.39:118][ 94]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.40:061][ 97]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.40:068][ 97]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.40:068][ 97]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.40:173][ 98]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.10.20-16.37.41:742][102]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.41:747][102]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.41:747][102]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.41:805][102]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.42:750][105]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.42:755][105]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.42:755][105]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.42:815][105]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.43:751][108]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.43:755][108]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.43:755][108]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.43:816][108]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.44:763][111]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.44:767][111]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.44:767][111]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.44:825][111]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.45:769][114]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.45:773][114]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.45:773][114]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.45:832][114]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.46:773][117]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.46:777][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.46:777][117]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.46:833][117]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.47:782][120]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.47:786][120]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.47:786][120]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.47:842][120]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.48:458][122]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.48:462][122]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.48:462][122]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.48:521][122]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.49:469][125]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.49:473][125]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.49:474][125]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.49:534][125]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.50:472][128]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.50:476][128]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.50:476][128]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.50:534][128]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.51:480][131]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.51:484][131]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.51:484][131]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.51:546][131]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.52:484][134]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.52:487][134]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.52:487][134]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.52:551][134]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.53:495][137]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.53:499][137]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.53:499][137]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.53:557][137]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.54:497][140]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.54:501][140]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.54:501][140]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.54:564][140]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.55:507][143]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.55:511][143]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.55:511][143]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.55:569][143]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.56:508][146]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.56:514][146]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.56:514][146]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.56:573][146]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.57:512][149]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.57:516][149]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.57:516][149]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.57:575][149]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.58:522][152]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.58:526][152]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.58:526][152]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.58:581][152]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.37.59:532][155]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.37.59:538][155]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.37.59:538][155]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.37.59:600][155]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.00:536][158]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.00:541][158]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.00:541][158]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.00:602][158]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.01:537][161]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.01:541][161]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.01:542][161]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.01:603][161]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.02:543][164]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.02:546][164]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.02:546][164]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.02:603][164]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.03:545][167]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.03:550][167]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.03:550][167]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.03:608][167]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.04:551][170]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.04:555][170]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.04:555][170]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.04:611][170]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.05:565][173]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.05:569][173]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.05:569][173]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.05:631][173]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.06:570][176]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.06:575][176]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.06:575][176]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.06:635][176]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.07:569][179]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.07:573][179]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.07:573][179]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.07:634][179]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.08:571][182]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.08:576][182]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.08:576][182]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.08:636][182]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.09:572][185]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.09:576][185]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.09:576][185]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.09:637][185]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.10:574][188]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.10:578][188]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.10:578][188]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.10:635][188]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.11:578][191]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.11:585][191]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.11:585][191]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.11:645][191]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.12:578][194]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.12:582][194]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.12:582][194]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.12:641][194]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.13:584][197]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.13:587][197]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.13:587][197]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.13:646][197]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.14:590][200]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.14:596][200]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.14:596][200]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.14:656][200]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.15:598][203]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.15:604][203]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.15:604][203]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.15:664][203]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.16:604][206]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.16:612][206]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.16:612][206]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.16:671][206]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.17:605][209]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.17:609][209]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.17:609][209]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.17:668][209]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.18:610][212]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.18:614][212]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.18:614][212]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.18:676][212]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.19:613][215]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.19:616][215]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.19:616][215]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.19:675][215]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.20:612][218]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.20:619][218]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.20:619][218]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.20:676][218]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.21:614][221]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.21:620][221]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.21:620][221]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.21:676][221]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.22:615][224]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.22:620][224]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.22:620][224]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.22:682][224]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.23:617][227]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.23:622][227]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.23:622][227]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.23:687][227]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.24:625][230]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.24:629][230]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.24:629][230]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.24:690][230]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.25:625][233]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.25:629][233]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.25:629][233]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.25:688][233]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.26:627][236]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.26:632][236]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.26:632][236]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.26:691][236]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.27:635][239]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.27:639][239]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.27:639][239]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.34:733][260]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.34:739][260]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.34:740][260]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.34:796][260]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.35:743][263]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.35:747][263]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.35:747][263]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.35:806][263]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.36:751][266]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.36:755][266]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.36:755][266]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.36:811][266]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.37:759][269]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.37:763][269]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.37:763][269]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.37:826][269]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.38:760][272]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.38:764][272]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.38:764][272]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.38:825][272]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.39:763][275]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.39:769][275]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.39:770][275]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.39:836][275]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.40:763][278]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.40:767][278]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.40:767][278]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.40:825][278]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.41:776][281]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.41:780][281]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.41:780][281]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.41:839][281]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.42:780][284]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.42:787][284]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.42:787][284]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.42:850][284]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.43:781][287]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.43:785][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.43:785][287]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.43:847][287]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.44:783][290]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.44:786][290]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.44:786][290]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.46:791][296]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.46:798][296]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.46:798][296]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.46:855][296]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.47:794][299]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.47:798][299]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.47:798][299]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.47:879][299]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.48:798][302]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.48:802][302]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.48:802][302]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.48:876][302]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.49:806][305]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.49:811][305]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.49:811][305]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.49:885][305]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.50:810][308]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.50:815][308]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.50:816][308]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.50:899][308]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.51:809][311]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.51:814][311]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.51:814][311]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.51:889][311]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.52:817][314]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.52:822][314]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.52:822][314]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.52:892][314]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.53:818][317]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.53:824][317]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.53:824][317]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.53:892][317]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.54:830][320]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.54:834][320]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.54:834][320]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.54:905][320]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.55:839][323]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.55:844][323]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.55:844][323]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.55:918][323]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.56:843][326]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.56:846][326]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.56:846][326]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.56:918][326]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.57:846][329]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.57:850][329]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.57:850][329]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.38.57:921][329]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.38.58:852][332]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.38.58:856][332]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.38.58:856][332]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-16.39.04:262][332]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x8889000A: UNKNOWN (line: 1271)
+[2021.10.20-16.39.04:279][333]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.20-16.39.04:284][333]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-16.39.04:284][333]LogAudioMixer: Display: 1: FrontRight
